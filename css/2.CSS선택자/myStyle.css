@@ -1,0 +1,19 @@
+body {
+  background-color: beige;
+}
+h1 {
+  color: tomato;
+}
+.major {
+  font-family: cursive;
+}
+.main {
+  color: cornflowerblue;
+}
+.sub {
+  color: crimson;
+}
+#useless {
+  font-size: 30px;
+  font-weight: 900;
+}

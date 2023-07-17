@@ -1,0 +1,18 @@
+html {
+  color: white;
+}
+body {
+  color: red;
+}
+header {
+  color: aqua;
+}
+header h1 {
+  color: tomato;
+}
+#myId {
+  color: darkblue;
+}
+.myClass {
+  color: crimson;
+}
