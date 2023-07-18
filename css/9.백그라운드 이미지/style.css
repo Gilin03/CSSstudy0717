@@ -196,3 +196,7 @@ header{
     background: url(images/bird.jpg) no-repeat center;
     background-size: cover;
 }
+
+.sidebar{
+  background-image: linear-gradient(60deg, #e5e9dc, #fff);
+}
