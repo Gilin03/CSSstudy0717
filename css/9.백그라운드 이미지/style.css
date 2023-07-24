@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 
 html {
   background-color: #869960;
@@ -6,7 +6,7 @@ html {
 }
 
 body {
-  font-family: 'PT Sans', Arial, sans-serif;
+  font-family: "PT Sans", Arial, sans-serif;
   font-size: 15px;
 }
 
@@ -24,7 +24,7 @@ a {
 .birds {
   background-color: #c2bbb1;
   text-align: center;
-  padding: 100px 0;
+  padding: 300px 300px;
 }
 
 .birds p {
@@ -70,17 +70,15 @@ a {
   padding: 15px 25px;
 }
 
-
 .container {
   width: 940px;
   margin-left: auto;
   margin-right: auto;
-  background-color: #FFF;
+  background-color: #fff;
   padding-top: 15px;
   padding-left: 40px;
   box-sizing: border-box;
 }
-
 
 header {
   padding-top: 20px;
@@ -176,27 +174,27 @@ footer {
   zoom: 1;
 }
 
-.container{
-    background: url(images/tile.png) repeat-x left top,
-                url(images/tile.png) repeat-x left bottom;
-    background-color: white;
-    /* background-image: url(images/tile.png);
+.container {
+  background: url(images/tile.png) repeat-x left top,
+    url(images/tile.png) repeat-x left bottom;
+  background-color: white;
+  /* background-image: url(images/tile.png);
     background-repeat: repeat-x; */
 }
-header{
-    background-image: url(images/flower.png);
-    background-repeat: no-repeat;
-    background-position: center right;
+header {
+  background-image: url(images/flower.png);
+  background-repeat: no-repeat;
+  background-position: center right;
 }
 
-.birds{
-    /* background-image: url(images/bird.jpg);
+.birds {
+  /* background-image: url(images/bird.jpg);
     background-repeat: no-repeat;
     background-position: center; */
-    background: url(images/bird.jpg) no-repeat center;
-    background-size: cover;
+  background: url(images/bird.jpg) no-repeat center;
+  background-size: cover;
 }
 
-.sidebar{
+.sidebar {
   background-image: linear-gradient(60deg, #e5e9dc, #fff);
 }
